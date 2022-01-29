@@ -1,0 +1,1 @@
+[23-Jan-2022 01:17:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'sccss_uninstall' not found or invalid function name in /home4/ingeniu7/public_html/wp-includes/class-wp-hook.php on line 303

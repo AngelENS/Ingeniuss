@@ -1,0 +1,15 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.header {
+  background: white;
+}
+
+.header .header-main-nav a{
+  transition: 1s all ease-in-out;
+}
+
+.header .header-main-nav a:hover {
+  border-bottom: 1px solid #212322;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
