@@ -1,4 +1,3 @@
----
 deployment:
   tasks: 
     - export DEPLOYPATH="/home4/ingeniu7/public_html"
